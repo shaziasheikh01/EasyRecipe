@@ -9,4 +9,7 @@ Each recipe can be viewed in detail along with its instruction and ingredients.
 
 * **Home Page**
 
+  ![image](https://github.com/shaziasheikh01/EasyRecipe/assets/125430575/49065fdd-4964-45f1-a9a2-d67f2026719e)
+
+
 
