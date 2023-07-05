@@ -6,6 +6,7 @@ EasyRecipes is a multipage responsive recipes website for food. EasyRecipes is a
 Each recipe can be viewed in detail, along with its instructions and ingredients.
 
                                        Live Demo : - https://shaziasheikh01.github.io/EasyRecipe/
+                                       
 
 # Demonstration
 
