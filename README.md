@@ -1,3 +1,4 @@
+<div align="center">
 # EasyRecipes
 Find your Everyday cooking inspiration on EasyRecipes website. 
 
@@ -5,7 +6,9 @@ Find your Everyday cooking inspiration on EasyRecipes website.
 EasyRecipes is a multipage responsive recipes website for food. EasyRecipes is a website where you can find recipes and use them as needed.
 Each recipe can be viewed in detail, along with its instructions and ingredients.
 
-                                       Live Demo : - https://shaziasheikh01.github.io/EasyRecipe/
+<a href= " https://shaziasheikh01.github.io/EasyRecipe/"><strong>➥ Live Demo</strong></a>
+
+</div>
                                        
 
 # Demonstration
